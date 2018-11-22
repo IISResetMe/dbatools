@@ -95,7 +95,6 @@
     <Compile Include="Runspace\RunspaceHost.cs" />
     <Compile Include="TabExpansion\TabCompletionSet.cs" />
     <Compile Include="TypeConversion\DbaCredentialParameterConverter.cs" />
-    <Compile Include="Utility\CredentialPrompt.cs" />
     <Compile Include="Validation\LinkedServerResult.cs" />
     <Compile Include="Utility\DateTimeExtension.cs" />
     <Compile Include="Utility\DbaDate.cs" />
